@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding:0px ;
+
+}
+body{
+    height: 270vh;
+    width: auto;
+    background-color: rgb(173, 255, 177);
+}
+.head{
+    margin-left: 30px;
+    padding-top: 20px;
+    color: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.l1,.l2,.l3{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 20px;
+
+}
+.g1{
+    background-color:white;
+    width: 50vh;
+    height: 59vh;
+    margin-left: 12px;
+    border-radius: 60px;
+}
+.g2{
+    background-color: white;
+    width: 50vh;
+    height: 59vh;
+    margin-left: 15px;
+    border-radius: 60px;
+}
+.g3{
+    background-color: white;
+    width: 50vh;
+    height: 59vh;
+    margin-left: 15px;
+    border-radius: 60px;
+}
+.g4{
+    background-color: white;
+    width:50vh;
+    height: 59vh;
+    margin-left: 15px;
+    border-radius: 60px;
+   
+}
+
+img{
+    width:50vh;
+    height:40vh;
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px ;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 18px;
+    margin-left: 21px;
+    cursor: pointer;
+}
+
+p a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+}
+p a:hover{
+    color: rgb(10, 85, 19);
+}
+.m{
+    font-family: fantasy;
+    font-size: 15px;
+    color: gray;
+}
+.inf{
+    height: 120px;
+    margin-top: 30vh;
+    background-color: white;
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px;
+}
+.icon{
+    padding-left: 30vh;
+    padding-top: 85px;
+}
+.f{
+    font-size: 20px;
+    color: blue;
+
+}
+.in{
+    margin-left: 90px;
+    font-size: 20px;
+    color: rgb(255, 30, 176);
+}
+.t{
+    margin-left: 90px;
+    font-size: 20px;
+    color: rgb(11, 127, 250);
+
+}
+.git{
+    margin-left: 90px;
+    font-size: 20px;
+    color: black;
+}
+.w{
+    margin-left: 90px;
+    font-size: 20px;
+    color: green;
+}

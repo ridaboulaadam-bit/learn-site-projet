@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: auto;
+    background-color:rgb(241, 236, 236);
+}
+.f{
+    width: 500px;
+    height: 590px;
+    background-color: rgb(61, 155, 67);
+    margin-top: 110px;
+    margin-left: 499px;
+    align-items: center;
+    border-radius: 22px;
+
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: rgb(7, 37, 4);
+    text-align: center;
+    padding-top: 17px;
+}
+.inp{
+    margin-top: 21px;
+    margin-left: 28px;
+    justify-content: space-between;
+
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+input{
+    width: 220px;
+    height: 33px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.b1{
+    margin-left: 60px;
+}
+
+.b2{
+    margin-left: 63px;
+}
+.b3{
+    margin-left: 69px;
+}
+.b4{
+    margin-left: 73px;
+}
+.b5{
+    margin-left: 88px;
+}
+.b6{
+    margin-left: 62px;
+}
+.b7{
+    margin-left: 35px;
+}
+button{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(38, 210, 26);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 22px;
+    color: whitesmoke;
+    margin-left: 120px;
+    cursor: pointer;
+    border: none;
+}
+button:hover{
+    background-color: rgb(128, 246, 2);
+    transform: translateY(-3px);
+}
+.log{
+    display: flex;
+    padding-left: 109px;
+    margin-top: 16px;
+    
+}
+p{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(239, 241, 242);
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: antiquewhite;
+}
+a:hover{
+    color: rgb(35, 69, 35);
+}
